@@ -1,0 +1,12 @@
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.csproj.AssemblyReference.cache
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.AssemblyInfoInputs.cache
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.AssemblyInfo.cs
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.csproj.CoreCompileInputs.cache
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\bin\Debug\net6.0\BookingLibrary.deps.json
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\bin\Debug\net6.0\BookingLibrary.dll
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\bin\Debug\net6.0\BookingLibrary.pdb
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.dll
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\refint\BookingLibrary.dll
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\BookingLibrary.pdb
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\BookingLibrary\BookingLibrary\obj\Debug\net6.0\ref\BookingLibrary.dll
